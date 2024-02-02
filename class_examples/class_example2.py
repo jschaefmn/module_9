@@ -1,4 +1,5 @@
-even_numbers = [i for i in range(101) if i % 2 == 0] # All even numbers from 0 to 100
+# All even numbers from 0 to 100
+even_numbers = [i for i in range(101) if i % 2 == 0] 
 # print(even_numbers)
 
 # every number between 0 and 100 divisible by 7
